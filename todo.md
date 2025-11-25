@@ -17,9 +17,6 @@
 -   from_asset_source_id (FK \u2192 AssetSource, nullable)
 -   to_asset_source_id (FK \u2192 AssetSource, nullable)
 
--   rate_used (DECIMAL, nullable) -- FX used
--   amount_in_subject_unit (DECIMAL, nullable) -- pre-converted
-
 ## Category
 
 -   id
