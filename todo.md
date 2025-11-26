@@ -1,3 +1,9 @@
+- notes
+- document vault
+- diet 
+- calendar 
+==> second brain app
+
 # Entity list
 
 ## Transaction
